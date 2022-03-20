@@ -1,6 +1,6 @@
 from car import Car
 
-if __name__ == "__main__": #El m[etodo de condicion de enrada de la aplicacion
+if __name__ == "__main__": #El metodo de condicion de enrada de la aplicacion
     print("Hola mundo")
     car = Car()
     car.license = "AMS234"

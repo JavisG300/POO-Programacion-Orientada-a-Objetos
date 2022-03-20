@@ -13,7 +13,7 @@ class Main{
         car2.license = "QWE567";
         car2.driver = "Andrea Herrera";
         car2.passenger = 3;
-        car.printDataCar();
+        car2.printDataCar();
 
     }
 }
