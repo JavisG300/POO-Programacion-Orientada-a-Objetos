@@ -1,5 +1,4 @@
->?php
-
+<?php
 class Account {
     public $id;
     public $name;
@@ -7,8 +6,11 @@ class Account {
     public $email;
     public $password;
 
-    public function __construct($name,$document){
+    public function __construct($name, $document){
         $this->name = $name;
         $this->document = $document;
     }
+
 }
+
+?>
